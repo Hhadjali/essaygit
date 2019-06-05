@@ -1,6 +1,5 @@
 #!bin/bash/
 
 echo "salut comment vas tu?"
-echo "super et toi?"
 echo "je sais pas "
 
